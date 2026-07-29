@@ -11,8 +11,8 @@ public class student extends person{
     }
      void displayStudent(){
         displayperson();
-        System.out.println("rollNo:" + rollNo);
-        System.out.println("course:" + course);
+        System.out.println("rollNo: " + rollNo);
+        System.out.println("course: " + course);
     }
     }
 

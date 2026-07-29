@@ -8,8 +8,8 @@ public class person {
         this.age = age;
     }
     void displayperson(){
-        System.out.println("name:" + name);
-        System.out.println("age:" + age);
+        System.out.println("name: " + name);
+        System.out.println("age: " + age);
     }
 }
     
