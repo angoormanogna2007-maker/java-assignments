@@ -13,5 +13,3 @@ package scanner;
     
 }
 
-
-
