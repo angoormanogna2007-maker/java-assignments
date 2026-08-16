@@ -1,7 +1,7 @@
-package Set;
+package Sets;
 import java.util.LinkedHashSet;
  
-public class LinkedHashSett {
+public class LinkedHashSet1{
     public static void main(String[] args) {
        
         LinkedHashSet<String> CarBrands= new LinkedHashSet<>();
@@ -16,4 +16,6 @@ public class LinkedHashSett {
         System.out.println(CarBrands.contains("Honda"));  //true
     }
 }
+ 
+ 
  

@@ -1,12 +1,12 @@
-package Set;
+package Sets;
 import java.util.HashSet;
 import java.util.List;
  
-public class HashSett {
+public class HashSet1 {
     public static void main(String[] args) {
        
         HashSet<String> vehicles= new HashSet<>();
-        
+       
         vehicles.add("Car");
         vehicles.add("Bike");
         vehicles.add("Bus");
@@ -27,6 +27,8 @@ public class HashSett {
         //Union - all vehicles from both sets
         HashSet<String> union = new HashSet<>(setA);
         union.addAll(setB);
-        System.out.println(union); 
+        System.out.println(union);
     }
 }
+ 
+ 

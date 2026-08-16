@@ -2,7 +2,7 @@ package List;
 import java.util.LinkedList;
 import java.util.Collections;
  
-public class LinkedListt {
+public class LinkedList1 {
     public static void main(String[] args) {
  
         LinkedList<String> names = new LinkedList<>();
@@ -35,3 +35,4 @@ public class LinkedListt {
         System.out.println(names);
     }
 }
+ 

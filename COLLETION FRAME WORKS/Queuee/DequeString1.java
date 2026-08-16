@@ -1,9 +1,9 @@
-package Queue;
+package Queuee;
 import java.util.ArrayDeque;
 import java.util.Deque;
-
  
-public class DequeStringg {
+ 
+public class DequeString1 {
     public static void main(String[] args) {
        
         Deque<String> subjects = new ArrayDeque<>();
@@ -20,4 +20,6 @@ public class DequeStringg {
         System.out.println("After poll: "+ subjects);
     }
 }
+ 
+ 
  

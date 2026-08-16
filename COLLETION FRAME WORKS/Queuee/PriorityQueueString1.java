@@ -1,7 +1,7 @@
-package Queue;
+package Queuee;
 import java.util.PriorityQueue;
-
-public class PriorityQueueStringg {
+ 
+public class PriorityQueueString1 {
     public static void main(String[] args) {
  
      PriorityQueue<String> cities= new PriorityQueue<>();
@@ -10,7 +10,7 @@ public class PriorityQueueStringg {
         cities.add("Delhi");
         cities.add("Hyderabad");
         cities.add("Chennai");
-    
+   
  
         System.out.println("priority Queue: " + cities);
         System.out.println(cities.size());
@@ -19,3 +19,5 @@ public class PriorityQueueStringg {
         System.out.println("After poll: " + cities);
     }
 }
+ 
+ 

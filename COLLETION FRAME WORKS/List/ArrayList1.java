@@ -2,7 +2,7 @@ package List;
 import java.util.ArrayList;
 import java.util.Collections;
  
-public class ArrayListt {
+public class ArrayList1 {
     public static void main(String[] args){
  
         ArrayList<String> fruits= new ArrayList<>();
@@ -32,3 +32,6 @@ public class ArrayListt {
         System.out.println(fruits.isEmpty());
     }
 }
+ 
+ 
+

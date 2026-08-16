@@ -1,7 +1,7 @@
-package Queue;
+package Queuee;
 import java.util.PriorityQueue;
-
-public class PriorityQueueInt {
+ 
+public class PriorityQueueInt1 {
     public static void main(String[] args) {
  
      PriorityQueue<Integer> marks = new PriorityQueue<>();
@@ -11,12 +11,14 @@ public class PriorityQueueInt {
         marks.add(92);
         marks.add(70);
         marks.add(60);
-    
-        System.out.println("PriorityQueue: "+marks); 
+   
+        System.out.println("PriorityQueue: "+marks);
         System.out.println(marks.peek());
         System.out.println(marks.poll());
         System.out.println("After poll: " + marks);
     }
 }
-    
-
+   
+ 
+ 
+ 
